@@ -1,0 +1,504 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "name": "Андрей Иванов",
+      "email": "andivanov45@yandex.ru",
+      "phone": "+7 (938) 242-23-96",
+      "city": "Санкт-Петербург",
+      "registration_date": "2025-10-14",
+      "status": "active",
+      "balance": 2719.89
+    },
+    {
+      "id": 2,
+      "name": "Иван Соколов",
+      "email": "ivasokolov74@gmail.com",
+      "phone": "+7 (981) 303-93-99",
+      "city": "Краснодар",
+      "registration_date": "2025-04-15",
+      "status": "pending",
+      "balance": 21225.21
+    },
+    {
+      "id": 3,
+      "name": "Александр Попов",
+      "email": "alepopov99@outlook.com",
+      "phone": "+7 (953) 384-29-37",
+      "city": "Нижний Новгород",
+      "registration_date": "2025-02-03",
+      "status": "inactive",
+      "balance": 7705.37
+    },
+    {
+      "id": 4,
+      "name": "Ольга Николаева",
+      "email": "olgnikolaeva43@gmail.com",
+      "phone": "+7 (968) 649-25-58",
+      "city": "Санкт-Петербург",
+      "registration_date": "2025-09-10",
+      "status": "pending",
+      "balance": 46579.72
+    },
+    {
+      "id": 5,
+      "name": "Ольга Степанова",
+      "email": "olgstepanova34@gmail.com",
+      "phone": "+7 (915) 777-39-47",
+      "city": "Санкт-Петербург",
+      "registration_date": "2025-04-28",
+      "status": "active",
+      "balance": 28819.4
+    },
+    {
+      "id": 6,
+      "name": "Анна Волкова",
+      "email": "annvolkova30@mail.ru",
+      "phone": "+7 (955) 314-95-44",
+      "city": "Санкт-Петербург",
+      "registration_date": "2025-10-21",
+      "status": "active",
+      "balance": 40293.42
+    },
+    {
+      "id": 7,
+      "name": "Михаил Попов",
+      "email": "mikpopov69@outlook.com",
+      "phone": "+7 (944) 755-98-81",
+      "city": "Екатеринбург",
+      "registration_date": "2025-11-11",
+      "status": "active",
+      "balance": 17564.08
+    },
+    {
+      "id": 8,
+      "name": "Дмитрий Морозов",
+      "email": "dmimorozov61@mail.ru",
+      "phone": "+7 (918) 316-82-50",
+      "city": "Екатеринбург",
+      "registration_date": "2025-11-16",
+      "status": "inactive",
+      "balance": 66408.89
+    },
+    {
+      "id": 9,
+      "name": "Анна Кузнецова",
+      "email": "annkuznetsova43@yandex.ru",
+      "phone": "+7 (941) 862-81-78",
+      "city": "Казань",
+      "registration_date": "2025-12-19",
+      "status": "inactive",
+      "balance": 67387.8
+    },
+    {
+      "id": 10,
+      "name": "Наталья Волкова",
+      "email": "natvolkova38@yandex.ru",
+      "phone": "+7 (975) 605-21-16",
+      "city": "Санкт-Петербург",
+      "registration_date": "2025-03-21",
+      "status": "active",
+      "balance": 59509.91
+    },
+    {
+      "id": 11,
+      "name": "Екатерина Николаева",
+      "email": "ekanikolaeva18@outlook.com",
+      "phone": "+7 (958) 710-69-77",
+      "city": "Казань",
+      "registration_date": "2025-09-28",
+      "status": "active",
+      "balance": 51181.11
+    },
+    {
+      "id": 12,
+      "name": "Андрей Козлов",
+      "email": "andkozlov44@mail.ru",
+      "phone": "+7 (924) 400-65-30",
+      "city": "Владивосток",
+      "registration_date": "2025-01-24",
+      "status": "pending",
+      "balance": 20122.48
+    },
+    {
+      "id": 13,
+      "name": "Татьяна Попова",
+      "email": "tatpopova74@gmail.com",
+      "phone": "+7 (990) 405-91-74",
+      "city": "Екатеринбург",
+      "registration_date": "2025-03-12",
+      "status": "active",
+      "balance": 40683.74
+    },
+    {
+      "id": 14,
+      "name": "Татьяна Иванова",
+      "email": "tativanova86@mail.ru",
+      "phone": "+7 (972) 119-24-56",
+      "city": "Казань",
+      "registration_date": "2025-04-02",
+      "status": "active",
+      "balance": 65911.72
+    },
+    {
+      "id": 15,
+      "name": "Сергей Сидоров",
+      "email": "sersidorov72@gmail.com",
+      "phone": "+7 (978) 884-26-26",
+      "city": "Владивосток",
+      "registration_date": "2025-09-06",
+      "status": "inactive",
+      "balance": 39811.7
+    },
+    {
+      "id": 16,
+      "name": "Ирина Лебедева",
+      "email": "irilebedeva37@yandex.ru",
+      "phone": "+7 (949) 508-95-93",
+      "city": "Нижний Новгород",
+      "registration_date": "2025-08-17",
+      "status": "inactive",
+      "balance": 9514.81
+    },
+    {
+      "id": 17,
+      "name": "Михаил Сидоров",
+      "email": "miksidorov53@gmail.com",
+      "phone": "+7 (985) 667-39-85",
+      "city": "Екатеринбург",
+      "registration_date": "2025-01-03",
+      "status": "pending",
+      "balance": 47517.17
+    },
+    {
+      "id": 18,
+      "name": "Михаил Сидоров",
+      "email": "miksidorov14@mail.ru",
+      "phone": "+7 (919) 626-40-45",
+      "city": "Владивосток",
+      "registration_date": "2025-04-18",
+      "status": "active",
+      "balance": 54389.77
+    },
+    {
+      "id": 19,
+      "name": "Анастасия Степанова",
+      "email": "anastepanova70@yandex.ru",
+      "phone": "+7 (970) 926-62-34",
+      "city": "Санкт-Петербург",
+      "registration_date": "2025-02-22",
+      "status": "inactive",
+      "balance": 26895.17
+    },
+    {
+      "id": 20,
+      "name": "Екатерина Семенова",
+      "email": "ekasemenova16@gmail.com",
+      "phone": "+7 (917) 512-53-23",
+      "city": "Екатеринбург",
+      "registration_date": "2025-04-07",
+      "status": "pending",
+      "balance": 33921.71
+    },
+    {
+      "id": 21,
+      "name": "Екатерина Попова",
+      "email": "ekapopova45@outlook.com",
+      "phone": "+7 (941) 995-19-66",
+      "city": "Санкт-Петербург",
+      "registration_date": "2025-01-21",
+      "status": "pending",
+      "balance": 62784.06
+    },
+    {
+      "id": 22,
+      "name": "Сергей Соколов",
+      "email": "sersokolov31@outlook.com",
+      "phone": "+7 (972) 592-37-61",
+      "city": "Москва",
+      "registration_date": "2025-03-13",
+      "status": "active",
+      "balance": 73905.51
+    },
+    {
+      "id": 23,
+      "name": "Артем Семенов",
+      "email": "artsemenov46@outlook.com",
+      "phone": "+7 (999) 848-81-94",
+      "city": "Владивосток",
+      "registration_date": "2025-03-07",
+      "status": "inactive",
+      "balance": 16718.72
+    },
+    {
+      "id": 24,
+      "name": "Дмитрий Степанов",
+      "email": "dmistepanov79@gmail.com",
+      "phone": "+7 (950) 158-16-84",
+      "city": "Владивосток",
+      "registration_date": "2025-09-28",
+      "status": "pending",
+      "balance": 12228.74
+    },
+    {
+      "id": 25,
+      "name": "Татьяна Сидорова",
+      "email": "tatsidorova33@gmail.com",
+      "phone": "+7 (986) 169-96-40",
+      "city": "Краснодар",
+      "registration_date": "2025-02-19",
+      "status": "active",
+      "balance": 43629.47
+    },
+    {
+      "id": 26,
+      "name": "Дмитрий Николаев",
+      "email": "dminikolaev20@outlook.com",
+      "phone": "+7 (994) 697-82-76",
+      "city": "Нижний Новгород",
+      "registration_date": "2025-05-07",
+      "status": "pending",
+      "balance": 53856.29
+    },
+    {
+      "id": 27,
+      "name": "Михаил Новиков",
+      "email": "miknovikov60@yandex.ru",
+      "phone": "+7 (995) 760-48-68",
+      "city": "Нижний Новгород",
+      "registration_date": "2025-02-01",
+      "status": "inactive",
+      "balance": 46776.36
+    },
+    {
+      "id": 28,
+      "name": "Анастасия Смирнова",
+      "email": "anasmirnova19@yandex.ru",
+      "phone": "+7 (974) 371-26-54",
+      "city": "Санкт-Петербург",
+      "registration_date": "2025-04-12",
+      "status": "inactive",
+      "balance": 12252.14
+    },
+    {
+      "id": 29,
+      "name": "Юлия Федорова",
+      "email": "yulfedorova88@gmail.com",
+      "phone": "+7 (995) 936-80-48",
+      "city": "Санкт-Петербург",
+      "registration_date": "2025-03-09",
+      "status": "active",
+      "balance": 66783.6
+    },
+    {
+      "id": 30,
+      "name": "Юлия Кузнецова",
+      "email": "yulkuznetsova44@mail.ru",
+      "phone": "+7 (987) 315-53-36",
+      "city": "Казань",
+      "registration_date": "2025-09-16",
+      "status": "inactive",
+      "balance": 67947.57
+    },
+    {
+      "id": 31,
+      "name": "Дмитрий Сидоров",
+      "email": "dmisidorov91@outlook.com",
+      "phone": "+7 (945) 145-10-52",
+      "city": "Новосибирск",
+      "registration_date": "2025-11-09",
+      "status": "active",
+      "balance": 55721.7
+    },
+    {
+      "id": 32,
+      "name": "Юлия Лебедева",
+      "email": "yullebedeva81@gmail.com",
+      "phone": "+7 (924) 177-98-29",
+      "city": "Москва",
+      "registration_date": "2025-06-19",
+      "status": "pending",
+      "balance": 11532.99
+    },
+    {
+      "id": 33,
+      "name": "Алексей Петров",
+      "email": "alepetrov49@mail.ru",
+      "phone": "+7 (915) 466-36-97",
+      "city": "Екатеринбург",
+      "registration_date": "2025-11-04",
+      "status": "inactive",
+      "balance": 58618.66
+    },
+    {
+      "id": 34,
+      "name": "Екатерина Николаева",
+      "email": "ekanikolaeva29@yandex.ru",
+      "phone": "+7 (930) 919-32-62",
+      "city": "Москва",
+      "registration_date": "2025-03-24",
+      "status": "inactive",
+      "balance": 58787.79
+    },
+    {
+      "id": 35,
+      "name": "Екатерина Соколова",
+      "email": "ekasokolova44@yandex.ru",
+      "phone": "+7 (999) 210-58-14",
+      "city": "Владивосток",
+      "registration_date": "2025-04-07",
+      "status": "inactive",
+      "balance": 26549.55
+    },
+    {
+      "id": 36,
+      "name": "Михаил Соколов",
+      "email": "miksokolov13@yandex.ru",
+      "phone": "+7 (961) 436-45-18",
+      "city": "Казань",
+      "registration_date": "2025-06-21",
+      "status": "pending",
+      "balance": 30276.04
+    },
+    {
+      "id": 37,
+      "name": "Юлия Морозова",
+      "email": "yulmorozova13@gmail.com",
+      "phone": "+7 (943) 282-84-43",
+      "city": "Москва",
+      "registration_date": "2025-02-20",
+      "status": "inactive",
+      "balance": 26253.69
+    },
+    {
+      "id": 38,
+      "name": "Елена Лебедева",
+      "email": "elelebedeva87@gmail.com",
+      "phone": "+7 (959) 690-34-42",
+      "city": "Москва",
+      "registration_date": "2025-12-14",
+      "status": "active",
+      "balance": 39234.07
+    },
+    {
+      "id": 39,
+      "name": "Юлия Васильева",
+      "email": "yulvasileva56@outlook.com",
+      "phone": "+7 (918) 780-52-89",
+      "city": "Нижний Новгород",
+      "registration_date": "2025-11-28",
+      "status": "active",
+      "balance": 54121.69
+    },
+    {
+      "id": 40,
+      "name": "Никита Павлов",
+      "email": "nikpavlov49@outlook.com",
+      "phone": "+7 (951) 512-99-47",
+      "city": "Новосибирск",
+      "registration_date": "2025-04-14",
+      "status": "pending",
+      "balance": 70557.09
+    },
+    {
+      "id": 41,
+      "name": "Максим Николаев",
+      "email": "maknikolaev82@mail.ru",
+      "phone": "+7 (961) 661-10-48",
+      "city": "Казань",
+      "registration_date": "2025-04-14",
+      "status": "pending",
+      "balance": 45696.29
+    },
+    {
+      "id": 42,
+      "name": "Елена Семенова",
+      "email": "elesemenova66@outlook.com",
+      "phone": "+7 (996) 318-75-70",
+      "city": "Новосибирск",
+      "registration_date": "2025-11-03",
+      "status": "inactive",
+      "balance": 38901.17
+    },
+    {
+      "id": 43,
+      "name": "Ирина Морозова",
+      "email": "irimorozova21@yandex.ru",
+      "phone": "+7 (996) 417-38-35",
+      "city": "Новосибирск",
+      "registration_date": "2025-01-02",
+      "status": "active",
+      "balance": 73803.23
+    },
+    {
+      "id": 44,
+      "name": "Ирина Сидорова",
+      "email": "irisidorova68@outlook.com",
+      "phone": "+7 (990) 689-34-99",
+      "city": "Краснодар",
+      "registration_date": "2025-08-13",
+      "status": "active",
+      "balance": 11494.07
+    },
+    {
+      "id": 45,
+      "name": "Александр Смирнов",
+      "email": "alesmirnov64@yandex.ru",
+      "phone": "+7 (932) 923-99-76",
+      "city": "Владивосток",
+      "registration_date": "2025-01-18",
+      "status": "active",
+      "balance": 68851.52
+    },
+    {
+      "id": 46,
+      "name": "Андрей Семенов",
+      "email": "andsemenov27@outlook.com",
+      "phone": "+7 (995) 643-81-86",
+      "city": "Нижний Новгород",
+      "registration_date": "2025-08-20",
+      "status": "pending",
+      "balance": 66955.51
+    },
+    {
+      "id": 47,
+      "name": "Екатерина Козлова",
+      "email": "ekakozlova67@yandex.ru",
+      "phone": "+7 (970) 560-43-41",
+      "city": "Казань",
+      "registration_date": "2025-09-16",
+      "status": "pending",
+      "balance": 18323.82
+    },
+    {
+      "id": 48,
+      "name": "Анна Сидорова",
+      "email": "annsidorova46@yandex.ru",
+      "phone": "+7 (944) 443-50-79",
+      "city": "Санкт-Петербург",
+      "registration_date": "2025-03-05",
+      "status": "active",
+      "balance": 29036.13
+    },
+    {
+      "id": 49,
+      "name": "Алексей Васильев",
+      "email": "alevasilev18@outlook.com",
+      "phone": "+7 (962) 438-79-69",
+      "city": "Краснодар",
+      "registration_date": "2025-01-07",
+      "status": "inactive",
+      "balance": 29516.02
+    },
+    {
+      "id": 50,
+      "name": "Анастасия Иванова",
+      "email": "anaivanova83@outlook.com",
+      "phone": "+7 (971) 106-55-48",
+      "city": "Краснодар",
+      "registration_date": "2025-07-18",
+      "status": "pending",
+      "balance": 55230.24
+    }
+  ]
+}
